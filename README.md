@@ -1,6 +1,8 @@
 ISPConfig 3 Installer
 =====================
 
+[![Join the chat at https://gitter.im/AnadoluPanteri/ISPConfig-3-Debian-Installer](https://badges.gitter.im/Join%20Chat.svg)](https://gitter.im/AnadoluPanteri/ISPConfig-3-Debian-Installer?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
+
 This script will install all of the necessary programs and changes that need to be made to get ISPConfig running successfully. It uses the Perfect Server guide from Falko Timme as the
 guide. If you would like, you can manually install all of the things needed using the guides that he has provided. I am just trying to streamline the process. 
 
